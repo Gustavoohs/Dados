@@ -1,3 +1,4 @@
 SAR_filter.zip filter=lfs diff=lfs merge=lfs -text
 Hiper_FLAASH.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+S2_2021_06_26.tif filter=lfs diff=lfs merge=lfs -text
